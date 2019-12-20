@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "661930602241",
+    "firebase_url": "https://dfdatabasedemo-vlwmql.firebaseio.com",
+    "project_id": "dfdatabasedemo-vlwmql",
+    "storage_bucket": "dfdatabasedemo-vlwmql.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661930602241:android:ffa2b9d483998c9f25b500",
+        "android_client_info": {
+          "package_name": "com.example.card_business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661930602241-cchdlqlaeovd5k5g8ns0l448u3vso82i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.card_business",
+            "certificate_hash": "9b9f69853954dedd60cd0427a2e4f77dd6bbc860"
+          }
+        },
+        {
+          "client_id": "661930602241-esm6dcqqpqdp026p218n8phv97kjoli7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXdgvgkgscTOHAWfka-xvJXGUO25aDHCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661930602241-stcfntjrgqai71p4g1kc4dcff3p1baa9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
